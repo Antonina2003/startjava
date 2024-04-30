@@ -1,0 +1,2 @@
+F:\флэшка\ПИС\laba10_Pis\obj\Debug\laba10_Pis.csprojAssemblyReference.cache
+F:\флэшка\ПИС\laba10_Pis\obj\Debug\laba10_Pis.csproj.CoreCompileInputs.cache
